@@ -7,6 +7,6 @@
 - [2-2. Types of TS part One](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/2-2.%20Types%20of%20TS%20part%20One.md)
 - [2-3. Types of TS part Two](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/2-3.%20Types%20of%20TS%20part%20Two.md)
 - [2-4. Types of TS part Three](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/2-4.%20Types%20of%20TS%20part%20Three.md)
-- [3-0. Call Signatures](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-0. Call Signatures.md)
-- [3-1. Overloading](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-1. Overloading.md)
+- [3-0. Call Signatures](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-0.%20Call%20Signatures.md)
+- [3-1. Overloading](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-1.%20Overloading.md)
 
