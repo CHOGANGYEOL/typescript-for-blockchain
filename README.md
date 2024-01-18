@@ -9,7 +9,7 @@
 - [2-4. Types of TS part Three](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/2-4.%20Types%20of%20TS%20part%20Three.md)
 - [3-0. Call Signatures](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-0.%20Call%20Signatures.md)
 - [3-1. Overloading](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-1.%20Overloading.md)
-- [3-2. Overloading](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-2.%20Polymorphism.md)
-- [3-3. Overloading](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-3.%20Generics%20Recap.md)
-- [3-4. Overloading](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-4.%20Conclusions.md)
+- [3-2. Polymorphism](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-2.%20Polymorphism.md)
+- [3-3. Generics Recap](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-3.%20Generics%20Recap.md)
+- [3-4. Conclusions](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-4.%20Conclusions.md)
 
