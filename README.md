@@ -12,6 +12,6 @@
 - [3-2. Polymorphism](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-2.%20Polymorphism.md)
 - [3-3. Generics Recap](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-3.%20Generics%20Recap.md)
 - [3-4. Conclusions](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-4.%20Conclusions.md)
-- [4-0. Classes](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-0.%Classes.md)
-- [4-1. Recap](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-1.%Recap.md)
+- [4-0. Classes](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-0.%20Classes.md)
+- [4-1. Recap](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-1.%20Recap.md)
 
