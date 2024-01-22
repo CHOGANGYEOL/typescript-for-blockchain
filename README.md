@@ -1,7 +1,4 @@
 # typescript-for-blockchain
-<<<<<<< HEAD
-`typescript`를 공부하기 위한 Repository 이며, 이 Repository는 Nomad Coders의 강의를 기본으로 공부하였습니다. +
-=======
 `typescript`를 공부하기 위한 Repository 이며, 이 Repository는 Nomad Coders의 강의를 기본으로 공부하였습니다. 
 
 - [1. Why not JavaScript](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/1.%20Why%20not%20JavaScript.md)
@@ -17,5 +14,6 @@
 - [3-4. Conclusions](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/3-4.%20Conclusions.md)
 - [4-0. Classes](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-0.%20Classes.md)
 - [4-1. Recap](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-1.%20Recap.md)
+- [4-2. interfaces](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-2.%20interfaces.md)
+- [4-3. interfaces part Two](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-3.%20interfaces%20part%20Two.md)
 
->>>>>>> 732c325be8b66b0384e30e7745985e7286fb29f8
