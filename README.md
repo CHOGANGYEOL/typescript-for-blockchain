@@ -16,4 +16,6 @@
 - [4-1. Recap](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-1.%20Recap.md)
 - [4-2. interfaces](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-2.%20interfaces.md)
 - [4-3. interfaces part Two](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-3.%20interfaces%20part%20Two.md)
+- [4-4. Polymorphism](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-4.%20Polymorphism.md)
+
 
