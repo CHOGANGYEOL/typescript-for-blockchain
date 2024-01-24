@@ -19,6 +19,6 @@
 - [4-3. interfaces part Two](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-3.%20interfaces%20part%20Two.md)
 - [4-4. Polymorphism](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/4-4.%20Polymorphism.md)
 - [5-0. Introduction](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-0.%20Introduction.md)
-- [5-1. Targets](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-1. Targets.md)
+- [5-1. Targets](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-1.%20Targets.md)
 - [5-2. Lib Configuration](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-2.%20Lib%20Configuration.md)
 - [5-3. Declaration Files](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-3.%20Declaration%20Files.md)
