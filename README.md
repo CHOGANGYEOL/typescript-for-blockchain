@@ -22,3 +22,4 @@
 - [5-1. Targets](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-1.%20Targets.md)
 - [5-2. Lib Configuration](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-2.%20Lib%20Configuration.md)
 - [5-3. Declaration Files](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-3.%20Declaration%20Files.md)
+- [5-4. JSDoc](https://github.com/CHOGANGYEOL/typescript-for-blockchain/blob/main/organize/5-4.%20JSDoc.md)
