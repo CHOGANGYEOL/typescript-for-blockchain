@@ -1,5 +1,5 @@
-import { exit, init } from "myPackage";
+import { exit, init } from "./myPackage";
 
-init({ urls: "" });
-exit(1)
+init({ debug: true, url: "" });
+exit(1);
 const hello = () => "hi";
