@@ -1,4 +1,4 @@
 .vscode/
 
-/project/node_modules
-/project/build
+project/node_modules
+project/build
