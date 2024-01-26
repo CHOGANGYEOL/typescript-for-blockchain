@@ -6,5 +6,7 @@
     "lib": ["ES6"], // 어떠한 환경에서 동작하는지를 지정한다.
     "strict": true, // typescript가 실수로부터 보호한다
     "allowJs": true, // typescript안에 javascript를 허용한다.
+    "esModuleInterop": true, //
+    "module": "CommonJS"
   }
 }
