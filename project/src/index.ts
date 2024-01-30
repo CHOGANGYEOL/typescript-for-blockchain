@@ -23,3 +23,36 @@ class Block implements BlockShape {
     return crypto.createHash("sha256").update(toHash).digest("hex");
   }
 }
+
+class Blockchain {
+  private blocks: Block[];
+  constructor() {
+    this.blocks = [];
+  }
+  private getPrevHash() {
+    if (this.blocks.length === 0) return "";
+    return this.blocks[this.blocks.length - 1].hash;
+  }
+  public addBlock(data: string) {
+    const newBlock = new Block(
+      this.getPrevHash(),
+      this.blocks.length + 1,
+      data
+    );
+    this.blocks.push(newBlock);
+  }
+
+  public getBlocks() {
+    // this.blocks을 직접적으로 return 하면 보안의 취약점이 있다. 
+    // blockchain.getBlocks().push() 같이 직접적으로 blocks에 접근이 가능핟,
+    return [...this.blocks];
+  }
+}
+
+const blockchain = new Blockchain();
+
+blockchain.addBlock("First one");
+blockchain.addBlock("Second one");
+blockchain.addBlock("Third one");
+blockchain.addBlock("Fourth one");
+console.log(blockchain.getBlocks());
